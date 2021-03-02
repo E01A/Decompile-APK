@@ -1,4 +1,4 @@
-# DecompileAPK
+# Decompile APK
 
 # simple script for Install the required tools and decompile apk file
 
